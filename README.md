@@ -14,6 +14,7 @@ Here is a list of the `.ipynb` files included in this repository, along with a b
 
 - **`preprocess.ipynb`**: *This notebook focuses on data preprocessing, including handling missing values, feature scaling, and encoding categorical variables.*
 - **`regressor and decision tree.ipynb`**: *This notebook demonstrates the implementation of regression models and decision trees, with an emphasis on model training, evaluation, and visualization.*
+- **`DecisionTree Algorithm and Example.ipynb`**: *This notebook shows the inside working of decision tree and with some example to be implemented.*
 
 > 📘 *Feel free to explore each notebook for detailed explanations, step-by-step implementations, and practical insights.*
 
